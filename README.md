@@ -10,7 +10,7 @@ I'm a student who enjoys learning about something..
 - Always learning something new
 - Interested in software development and problem solving
 
-![DailyStreaks](https://raw.githubusercontent.com/fadhilakbarc/daily_streak/main/assets/github-streak.svg)
+![DailyStreaks](https://raw.githubusercontent.com/fadhilakbarc/daily-streak/main/assets/github-streak.svg)
 
 ---
 
